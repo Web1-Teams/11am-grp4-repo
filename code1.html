@@ -14,7 +14,7 @@
 <section class="products">
 <h1>حقائب تراثية فاخرة </h1>
 <div class="all-products">
-<div class="product">
+<div class="product" id="product1">
  <img src="bag1.jpg" alt="bag">
    <div class="product-info">
 <h4 class="product-title">بقجة لحفظ الحرارة
@@ -28,7 +28,7 @@
 
 </div>
 
-<div class="product">
+<div class="product" id="product2">
 
 <img src="bag2.jpg">
 
@@ -150,15 +150,15 @@
     </div>
 </div>
 <div class="navbar">
-    <img src="aaaaa.png" class="logo">
+    <img src="logo.jpg" class="logo">
     <ul>
-        <li><a href="#">المفضلة</a></li>
-        <li><a href="#about">لماذا نحن</a></li>
-        <li><a href="#category">الاقسام</a></li>
-        <li><a href="#">الرئيسية</a></li>
+        <li><a href="index.html">المفضلة</a></li>
+        <li><a href="index.html#about">لماذا نحن</a></li>
+        <li><a href="index.html#divsion">الاقسام</a></li>
+        <li><a href="index.html">الرئيسية</a></li>
     </ul>
 
-  
+   
     </section>
     <button class="cart-container">
         <span class="cart-count">0</span>
@@ -166,6 +166,16 @@
         <span class="cart-text">سلة</span>
         <i class="fa-solid fa-chevron-down"></i>
     </button>
+    <script>
+        document.getElementById('product1').addEventListener('click', function() {
+            window.location.href = 'details_image1.html';  
+        });
     
+        document.getElementById('product2').addEventListener('click', function() {
+            window.location.href = 'details_image2.html';  
+        });
+    </script>
+    
+
     </body>
   </html>
