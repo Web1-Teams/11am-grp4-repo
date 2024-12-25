@@ -13,10 +13,10 @@
         <div class="navbar">
             <img src="IMG/logo5-removebg-preview.png" class="logo">
             <ul>
-                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">المفضلة</a></li>
                 <li><a href="#about">لماذا نحن</a></li>
                 <li><a href="#category">الاقسام</a></li>
-                <li><a href="#">المفضلة</a></li>
+                <li><a href="#">الرئيسية</a></li>
             </ul>
         </div>
         <div class="content">
@@ -24,19 +24,16 @@
             <p>اكتشف جمال وعراقة التراث الفلسطيني من خلال منتجاتنا المميزة التي تحمل عبق الماضي وحرفية الأجداد</p>
         </div>
     </div>
-    <header>
-        <h1 id="divsion"></h1>
-        <h1 id="category">الأقسام</h1>
 
-    </header>
+    <h1 class="h1InPage">الأقسام</h1>
 
-    <main class="mainCategory">
+    <main class="mainCategory" id="category">
         
         <article class="CategorySection">
             
             <div class="category"><img src="IMG/DRESS.jpg" alt=""><P>أثواب</P></div>
             <div class="category"><img src="IMG/KOFEA.jpg" alt=""><p>كوفيات</p></div>
-            <div class="category"><button onclick="location.href='code1.html';"><img src="IMG/BAG.jpg" alt="Aside Image 2"></button><p>شنط</p></div>
+            <div class="category"><button onclick="location.href='code1.html';"><img src="IMG/BAG.jpg" alt=""></button><p>شنط</p></div>
             <div class="category"><img src="IMG/MJOHRAT.jpg" alt=""><p>مجوهرات</p></div>
             <div class="category"><button onclick="location.href='htmlscarf.html';"><img src="IMG/SHALAT.jpg" alt=""></button><p>شالات</p></div>
             <div class="category"><img src="IMG/TATEZa5r.jpg" alt=""> <p>مطرزات اخرى</p></div>
@@ -45,26 +42,21 @@
 
     </main>
 
-    <section class="heor">
-         <h1 id="AboutUS"></h1>
-        <div class="heading">
-            <h1 id="about">لماذا نحن؟</h1>
-            
-        </div>
+    <section>
+        <h1 class="h1InPage" id="about">لماذا نحن؟</h1>
     
-        <div class="containerr" dir="rtl">
-            <div class="hero-content">
-                <p style="color: black;">
+        <div class="hero" dir="rtl">
+                <p class="hero-content">
                     متجر عَبَق الخَان يقدم تجربة فريدة لعشاق التراث والثقافة،  
                     يضم المتجر مجموعة مختارة بعناية من المنتجات التراثية التي تعكس أصالة الماضي وروعة الحرف اليدوية التقليدية،  
                     تجدون لدينا قطعاً فنية، وإكسسوارات منزلية، ومنتجات يدوية تحمل عبق التاريخ وتفاصيل الهوية الثقافية.  <br/>
                     نسعى للحفاظ على التراث وإيصاله إلى الأجيال القادمة، مع توفير تجربة تسوق مريحة وسهلة من أي مكان.
                 </p>
-            </div>
             
             <div class="hero-image">
                 <img id="aboutImg" src="IMG/about.jpg">
             </div>
+            
         </div>
      </section>
 
@@ -112,5 +104,7 @@
         <p class="copyright"> Easy shopping 2024 -All Rights Reserved</p>
      </footer>
      </section> 
+     <button id="backToTop">↑</button>
+     <script src="/script.js"></script>
 </body>
 </html>
