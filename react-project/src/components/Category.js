@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Category.css";
 
-const CategoryParents = ({ imageSrc, categoryName }) => {
+const Category = ({ imageSrc, categoryName }) => {
   return (
     <div className="category">
       <img src={imageSrc} alt={categoryName} />
@@ -9,4 +9,4 @@ const CategoryParents = ({ imageSrc, categoryName }) => {
     </div>
   );
 };
-export default CategoryParents;
+export default Category;
