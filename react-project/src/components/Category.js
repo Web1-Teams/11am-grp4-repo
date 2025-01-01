@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import "../styles/Category.css";
 
 const Category = ({ imageSrc, categoryName }) => {
@@ -9,4 +9,4 @@ const Category = ({ imageSrc, categoryName }) => {
     </div>
   );
 };
-export default Category;
+export default Category;*/
