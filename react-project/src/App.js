@@ -1,9 +1,10 @@
 import React from "react";
+import StoreItem from "./components/StoreItem";
 
 function App() {
   return (
     <div className="App">
-      <h1> hi my app</h1>
+      <StoreItem></StoreItem>
     </div>
   );
 }

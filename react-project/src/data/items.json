@@ -1,0 +1,435 @@
+
+[
+  {
+    "id": 18,
+    "name": "خاتم ملوكي كريستالي احمر",
+    "price": 500.00,
+    "oldPrice": 680.00,
+    "imgUrl": "/imgs/acc1.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 19,
+    "name": "خاتم ذهبي عيار 21",
+    "price": 600.00,
+    "oldPrice": 816.00,
+    "imgUrl": "/imgs/acc2.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 20,
+    "name": "طوق ذهبي اصلي",
+    "price": 700.00,
+    "oldPrice": 952.00,
+    "imgUrl": "/imgs/acc3.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 21,
+    "name": "سوارة يد ذهب اصلي",
+    "price": 800.00,
+    "oldPrice": 1088.00,
+    "imgUrl": "/imgs/acc4.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 22,
+    "name": "سوارة ذهب بنفشة حمراء",
+    "price": 900.00,
+    "oldPrice": 1224.00,
+    "imgUrl": "/imgs/acc5.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 23,
+    "name": "طوق ذهبي كريستالي",
+    "price": 1000.00,
+    "oldPrice": 1360.00,
+    "imgUrl": "/imgs/acc6.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 24,
+    "name": "طوق ذهبي اصلي",
+    "price": 950.00,
+    "oldPrice": 1292.00,
+    "imgUrl": "/imgs/acc7.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 25,
+    "name": "خاتم ذهب عيار 18",
+    "price": 850.00,
+    "oldPrice": 1156.00,
+    "imgUrl": "/imgs/acc8.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 26,
+    "name": "حلق اذن ذهب اصلي",
+    "price": 750.00,
+    "oldPrice": 1020.00,
+    "imgUrl": "/imgs/acc9.jpeg",
+    "type": "jewelry"
+  },
+  {
+    "id": 0,
+    "name": "بقجة حرارية مطرزة",
+    "price": 10.00,
+    "oldPrice": 13.60,
+    "imgUrl": "/imgs/bag1.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 1,
+    "name": "بقجة حرارية مطرزة ذهبي",
+    "price": 20.00,
+    "oldPrice": 27.20,
+    "imgUrl": "/imgs/bag2.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 2,
+    "name": "شنطة جلد تراثية",
+    "price": 30.00,
+    "oldPrice": 40.80,
+    "imgUrl": "/imgs/bag3.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 3,
+    "name": "جزدان مطرز تراثي",
+    "price": 40.00,
+    "oldPrice": 54.40,
+    "imgUrl": "/imgs/bag4.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 4,
+    "name": "جزدان مطرز بنقشة بيضاء",
+    "price": 50.00,
+    "oldPrice": 68.00,
+    "imgUrl": "/imgs/bag5.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 5,
+    "name": "شنطة يد تراثية",
+    "price": 15.00,
+    "oldPrice": 20.40,
+    "imgUrl": "/imgs/bag6.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 6,
+    "name": "شنطة يد منقشة",
+    "price": 25.00,
+    "oldPrice": 34.00,
+    "imgUrl": "/imgs/bag7.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 7,
+    "name": "جزدان ابيض بنقشة سوداء",
+    "price": 35.00,
+    "oldPrice": 47.60,
+    "imgUrl": "/imgs/bag8.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 8,
+    "name": "شنطة ظهر بالكوفية",
+    "price": 45.00,
+    "oldPrice": 61.20,
+    "imgUrl": "/imgs/bag9.jpg",
+    "type": "bag"
+  },
+  {
+    "id": 9,
+    "name": "ثوب فلسطيني قماشة حمراء",
+    "price": 10.00,
+    "oldPrice": 13.60,
+    "imgUrl": "/imgs/th1.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 10,
+    "name": "ثوب فلسطيني مطرز تقليدي",
+    "price": 20.00,
+    "oldPrice": 27.20,
+    "imgUrl": "/imgs/th2.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 11,
+    "name": "ثوب فلسطيني قماشة بيضاء",
+    "price": 30.00,
+    "oldPrice": 40.80,
+    "imgUrl": "/imgs/th3.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 12,
+    "name": "ثوب فلسطيني اسود تقليدي",
+    "price": 40.00,
+    "oldPrice": 54.40,
+    "imgUrl": "/imgs/th4.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 13,
+    "name": "ثوب فلسطيني قماشة بيج",
+    "price": 50.00,
+    "oldPrice": 68.00,
+    "imgUrl": "/imgs/th5.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 14,
+    "name": "ثوب فلسطيني قماشة وردية",
+    "price": 15.00,
+    "oldPrice": 20.40,
+    "imgUrl": "/imgs/th6.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 15,
+    "name": "ثوب فلسطيني قماشة سوداء",
+    "price": 25.00,
+    "oldPrice": 34.00,
+    "imgUrl": "/imgs/th7.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 16,
+    "name": "ثوب فلسطيني مطرز بالاحمر",
+    "price": 35.00,
+    "oldPrice": 47.60,
+    "imgUrl": "/imgs/th8.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 17,
+    "name": "ثوب فلسطيني فاخر",
+    "price": 45.00,
+    "oldPrice": 61.20,
+    "imgUrl": "/imgs/th9.jpeg",
+    "type": "thobe"
+  },
+  {
+    "id": 27,
+    "name": "شال تراثية بنقشة حمراء و زرقاء",
+    "price": 10.00,
+    "oldPrice": 13.60,
+    "imgUrl": "/imgs/scarf1.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 28,
+    "name": "شال تراثية قماشة سوداء",
+    "price": 20.00,
+    "oldPrice": 27.20,
+    "imgUrl": "/imgs/scarf2.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 29,
+    "name": "شال بنقشة قلب حب",
+    "price": 30.00,
+    "oldPrice": 40.80,
+    "imgUrl": "/imgs/scarf3.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 30,
+    "name": "شال بتطريز تقليدي",
+    "price": 40.00,
+    "oldPrice": 54.40,
+    "imgUrl": "/imgs/scarf4.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 31,
+    "name": "شال بقماشة سوداء ونقشة زرقاء",
+    "price": 50.00,
+    "oldPrice": 68.00,
+    "imgUrl": "/imgs/scarf5.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 32,
+    "name": "شال بيضاء تراثية فاخرة",
+    "price": 15.00,
+    "oldPrice": 20.40,
+    "imgUrl": "/imgs/scarf6.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 33,
+    "name": "شال على اسم مدينة جنين",
+    "price": 25.00,
+    "oldPrice": 34.00,
+    "imgUrl": "/imgs/scarf7.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 34,
+    "name": "شال قماشة سوداء بنفشة تقليدية",
+    "price": 35.00,
+    "oldPrice": 47.60,
+    "imgUrl": "/imgs/scarf8.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 35,
+    "name": "شال بنقشة الكوفية الفلسطينية",
+    "price": 45.00,
+    "oldPrice": 61.20,
+    "imgUrl": "/imgs/scarf9.jpg",
+    "type": "shalat"
+  },
+  {
+    "id": 36,
+    "name": "مراي خارطة فلسطين",
+    "price": 10.00,
+    "oldPrice": 13.60,
+    "imgUrl": "/imgs/or1.jpeg",
+    "type": "other"
+  },
+  {
+    "id": 37,
+    "name": "مراي على شكل الخريطة",
+    "price": 20.00,
+    "oldPrice": 27.20,
+    "imgUrl": "/imgs/or2.jpeg",
+    "type": "other"
+  },
+  {
+    "id": 38,
+    "name": "شرشف طاولة بنقشة تراثية",
+    "price": 30.00,
+    "oldPrice": 40.80,
+    "imgUrl": "/imgs/or3.jpg",
+    "type": "other"
+  },
+  {
+    "id": 39,
+    "name": "سوارة يد ذهب اصلي",
+    "price": 40.00,
+    "oldPrice": 54.40,
+    "imgUrl": "/imgs/or4.jpg",
+    "type": "other"
+  },
+  {
+    "id": 40,
+    "name": "غلاف هاتف ايفون على شكل الكوفية",
+    "price": 50.00,
+    "oldPrice": 68.00,
+    "imgUrl": "/imgs/or5.jpeg",
+    "type": "other"
+  },
+  {
+    "id": 41,
+    "name": "معلم كتب مطرز",
+    "price": 15.00,
+    "oldPrice": 20.40,
+    "imgUrl": "/imgs/or6.jpg",
+    "type": "other"
+  },
+  {
+    "id": 42,
+    "name": "شرشف طاولة بنقشة بيضاء",
+    "price": 25.00,
+    "oldPrice": 34.00,
+    "imgUrl": "/imgs/or7.jpg",
+    "type": "other"
+  },
+  {
+    "id": 43,
+    "name": "برواز على شكل خريطة فلسطين",
+    "price": 35.00,
+    "oldPrice": 47.60,
+    "imgUrl": "/imgs/or8.jpg",
+    "type": "other"
+  },
+  {
+    "id": 44,
+    "name": "برواز مطرز بنقشة تراثية",
+    "price": 10.00,
+    "oldPrice": 13.60,
+    "imgUrl": "/imgs/or9.jpg",
+    "type": "other"
+  },
+  {
+    "id": 45,
+    "name": "كوفية قماشة بني",
+    "price": 10.00,
+    "oldPrice": 13.60,
+    "imgUrl": "/imgs/kf1.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 46,
+    "name": "كوفية قماشة فضي",
+    "price": 20.00,
+    "oldPrice": 27.20,
+    "imgUrl": "/imgs/kf2.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 47,
+    "name": "كوفية تقليدية زرقاء",
+    "price": 30.00,
+    "oldPrice": 40.80,
+    "imgUrl": "/imgs/kf3.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 48,
+    "name": "كوفية فلسطينية اصلية",
+    "price": 40.00,
+    "oldPrice": 54.40,
+    "imgUrl": "/imgs/kf4.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 49,
+    "name": "كوفية تقليدية كحلية",
+    "price": 50.00,
+    "oldPrice": 68.00,
+    "imgUrl": "/imgs/kf5.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 50,
+    "name": "كوفية تقليدية بقماشة بيضاء و زرقاء",
+    "price": 15.00,
+    "oldPrice": 20.40,
+    "imgUrl": "/imgs/kf6.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 51,
+    "name": "كوفية فلسطينية بقماشة سوداء و حمراء",
+    "price": 25.00,
+    "oldPrice": 34.00,
+    "imgUrl": "/imgs/kf7.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 52,
+    "name": "كوفية فلسطينية حمراء",
+    "price": 35.00,
+    "oldPrice": 47.60,
+    "imgUrl": "/imgs/kf8.jpeg",
+    "type": "koffiea"
+  },
+  {
+    "id": 53,
+    "name": "كوفية تقليدية ذهبية",
+    "price": 45.00,
+    "oldPrice": 61.20,
+    "imgUrl": "/imgs/kf9.jpeg",
+    "type": "koffiea"
+  }
+]
