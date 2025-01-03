@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "email": "tasneemdaraghmeh@gmail.com",
+      "password": "tasneemdaraghmeh"
+    },
+    {
+      "id": 2,
+      "email": "noormashaqi@gmail.com",
+      "password": "noormashaqi"
+    },
+    {
+        "id": 3,
+        "email": "raghadabedalhaq@gmail.com",
+        "password": "raghadabedalhaq"
+      },
+      {
+        "id": 4,
+        "email": "ahmedshanti@gmail.com",
+        "password": "ahmedshanti"
+      }, {
+        "id": 5,
+        "email": "ragheedkamal@gmail.com",
+        "password": "ragheedkamal"
+      }
+  ]
+  
