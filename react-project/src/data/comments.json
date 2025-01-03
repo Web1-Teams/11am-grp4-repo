@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "productId": 0,
+      "name": "John Doe",
+      "text": "Great product!"
+    },
+    {
+      "id": 2,
+      "productId": 0,
+      "name": "Jane Smith",
+      "text": "Really useful and worth the price."
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "name": "Alice Johnson",
+      "text": "Not what I expected, but still decent."
+    }
+  ]
+  
