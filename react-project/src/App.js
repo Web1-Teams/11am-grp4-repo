@@ -1,11 +1,12 @@
 import React from "react";
 import StoreItem from "./components/StoreItem";
+import CartItem from "./components/CartItem";
 
 function App() {
   return (
     <div className="App">
-      <StoreItem></StoreItem>
-    </div>
+<CartItem></CartItem>
+   </div>
   );
 }
 
