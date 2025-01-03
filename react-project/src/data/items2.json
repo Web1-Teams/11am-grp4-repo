@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "name": "شال تراثية بنقشة حمراء و زرقاء",
+      "price": 50.99,
+      "oldPrice": 70.99,
+      "imgUrl": "/css,html project/scarf1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "شال تراثية قماشة سوداء",
+      "price": 75.50,
+      "oldPrice": 95.50,
+      "imgUrl": "/css,html project/scarf2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "شال بنقشة قلب حب",
+      "price": 60.00,
+      "oldPrice": 80.00,
+      "imgUrl": "/css,html project/scarf3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "شال بتطريز تقليدي",
+      "price": 70.99,
+      "oldPrice": 90.99,
+      "imgUrl": "/css,html project/scarf4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "شال بقماشة سوداء ونقشة زرقاء",
+      "price": 55.25,
+      "oldPrice": 75.25,
+      "imgUrl": "/css,html project/scarf5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "شال بيضاء تراثية فاخرة",
+      "price": 80.00,
+      "oldPrice": 100.00,
+      "imgUrl": "/css,html project/scarf6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "شال على اسم مدينة جنين",
+      "price": 90.99,
+      "oldPrice": 110.99,
+      "imgUrl": "/css,html project/scarf7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "شال قماشة سوداء بنفشة تقليدية",
+      "price": 85.75,
+      "oldPrice": 105.75,
+      "imgUrl": "/css,html project/scarf8.jpg"
+    },
+    {
+      "id": 8,
+      "name": "شال بنقشة الكوفية الفلسطينية",
+      "price": 65.50,
+      "oldPrice": 85.50,
+      "imgUrl": "/css,html project/scarf9.jpg"
+    }
+  ]

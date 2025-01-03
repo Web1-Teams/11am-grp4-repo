@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "name": "كوفية قماشة بني",
+      "price": 50.99,
+      "oldPrice": 70.99,
+      "imgUrl": "/css,html project/kf1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "كوفية قماشة فضي",
+      "price": 75.50,
+      "oldPrice": 95.50,
+      "imgUrl": "/css,html project/kf2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "كوفية تقليدية زرقاء",
+      "price": 60.00,
+      "oldPrice": 80.00,
+      "imgUrl": "/css,html project/kf3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "كوفية فلسطينية اصلية",
+      "price": 70.99,
+      "oldPrice": 90.99,
+      "imgUrl": "/css,html project/kf4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "كوفية تقليدية كحلية",
+      "price": 55.25,
+      "oldPrice": 75.25,
+      "imgUrl": "/css,html project/kf5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "كوفية تقليدية بقماشة بيضاء و زرقاء",
+      "price": 80.00,
+      "oldPrice": 100.00,
+      "imgUrl": "/css,html project/kf6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "كوفية فلسطينية بقماشة سوداء و حمراء ",
+      "price": 90.99,
+      "oldPrice": 110.99,
+      "imgUrl": "/css,html project/kf7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "كوفية فلسطينية حمراء",
+      "price": 85.75,
+      "oldPrice": 105.75,
+      "imgUrl": "/css,html project/kf8.jpg"
+    },
+    {
+      "id": 8,
+      "name": "كوفية تقليدية ذهبية",
+      "price": 65.50,
+      "oldPrice": 85.50,
+      "imgUrl": "/css,html project/kf9.jpg"
+    }
+  ]

@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "name": "مراي خارطة فلسطين",
+      "price": 50.99,
+      "oldPrice": 70.99,
+      "imgUrl": "/css,html project/or1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "مراي على شكل الخريطة",
+      "price": 75.50,
+      "oldPrice": 95.50,
+      "imgUrl": "/css,html project/or2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "شرشف طاولة بنقشة تراثية",
+      "price": 60.00,
+      "oldPrice": 80.00,
+      "imgUrl": "/css,html project/or3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "سوارة يد ذهب اصلي",
+      "price": 70.99,
+      "oldPrice": 90.99,
+      "imgUrl": "/css,html project/or4.jpg"
+    },
+    {
+      "id": 4,
+      "name":"غلاف هاتف ايفون على شكل الكوفية",
+      "price": 55.25,
+      "oldPrice": 75.25,
+      "imgUrl": "/css,html project/or5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "معلم كتب مطرز ",
+      "price": 80.00,
+      "oldPrice": 100.00,
+      "imgUrl": "/css,html project/or6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "شرشف طاولة بنقشة بيضاء",
+      "price": 90.99,
+      "oldPrice": 110.99,
+      "imgUrl": "/css,html project/or7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "برواز على شكل خريطة فلسطين",
+      "price": 85.75,
+      "oldPrice": 105.75,
+      "imgUrl": "/css,html project/or8.jpg"
+    },
+    {
+      "id": 8,
+      "name": "برواز مطرز بنقشة تراثية",
+      "price": 65.50,
+      "oldPrice": 85.50,
+      "imgUrl": "/css,html project/or9.jpg"
+    }
+  ]

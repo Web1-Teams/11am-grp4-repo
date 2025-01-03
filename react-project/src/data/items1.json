@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "name": "خاتم ملوكي كريستالي احمر ",
+      "price": 50.99,
+      "oldPrice": 70.99,
+      "imgUrl": "/css,html project/acc1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "خاتم ذهبي عيار 21",
+      "price": 75.50,
+      "oldPrice": 95.50,
+      "imgUrl": "/css,html project/acc2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "طوق ذهبي اصلي",
+      "price": 60.00,
+      "oldPrice": 80.00,
+      "imgUrl": "/css,html project/acc3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "سوارة يد ذهب اصلي",
+      "price": 70.99,
+      "oldPrice": 90.99,
+      "imgUrl": "/css,html project/acc4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "سوارة ذهب بنفشة حمراء",
+      "price": 55.25,
+      "oldPrice": 75.25,
+      "imgUrl": "/css,html project/acc5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "طوق ذهبي كريستالي ",
+      "price": 80.00,
+      "oldPrice": 100.00,
+      "imgUrl": "/css,html project/acc6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "طوق ذهبي اصلي ",
+      "price": 90.99,
+      "oldPrice": 110.99,
+      "imgUrl": "/css,html project/acc7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "خاتم ذهب عيار 18",
+      "price": 85.75,
+      "oldPrice": 105.75,
+      "imgUrl": "/css,html project/acc8.jpg"
+    },
+    {
+      "id": 8,
+      "name": "حلق اذن ذهب اصلي",
+      "price": 65.50,
+      "oldPrice": 85.50,
+      "imgUrl": "/css,html project/acc9.jpg"
+    }
+  ]

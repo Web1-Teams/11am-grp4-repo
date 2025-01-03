@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "name": "ثوب فلسطيني قماشة حمراء",
+      "price": 50.99,
+      "oldPrice": 70.99,
+      "imgUrl": "/css,html project/th1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "ثوب فلسطيني مطرز تقليدي",
+      "price": 75.50,
+      "oldPrice": 95.50,
+      "imgUrl": "/css,html project/th2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "ثوب فلسطيني قماشة بيضاء",
+      "price": 60.00,
+      "oldPrice": 80.00,
+      "imgUrl": "/css,html project/th3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ثوب فلسطيني اسود تقليدي ",
+      "price": 70.99,
+      "oldPrice": 90.99,
+      "imgUrl": "/css,html project/th4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ثوب فلسطيني قماشة بيج ",
+      "price": 55.25,
+      "oldPrice": 75.25,
+      "imgUrl": "/css,html project/th5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ثوب فلسطيني قماشة وردية",
+      "price": 80.00,
+      "oldPrice": 100.00,
+      "imgUrl": "/css,html project/th6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ثوب فلسطيني قماشة سوداء",
+      "price": 90.99,
+      "oldPrice": 110.99,
+      "imgUrl": "/css,html project/th7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ثوب فلسطيني مطرز بالاحمر",
+      "price": 85.75,
+      "oldPrice": 105.75,
+      "imgUrl": "/css,html project/th8.jpg"
+    },
+    {
+      "id": 8,
+      "name": "ثوب فلسطيني فاخر",
+      "price": 65.50,
+      "oldPrice": 85.50,
+      "imgUrl": "/css,html project/th9.jpg"
+    }
+  ]
