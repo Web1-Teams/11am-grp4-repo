@@ -20,9 +20,6 @@ const ShoppingCart = ({ isOpen }) => {
             <CartItem key={item.id} {...item} />
           ))}
           <div className="d-flex justify-content-between align-items-center p-3 fw-bold" >
-         
-  
-
           Total{" "}
             {FormatCurrency(
               cartItems.reduce((total, cartItem) => {

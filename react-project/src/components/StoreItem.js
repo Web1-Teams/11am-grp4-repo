@@ -1,18 +1,22 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Button, Card } from "react-bootstrap";
+<<<<<<< Updated upstream
 import { useShoppingCart } from "../context/ShoppingCartContext";
+=======
+import { ShoppingCartContext } from "../context/ShoppingCartContext.jsx";
+>>>>>>> Stashed changes
 import FormatCurrency from "./FormatCurrency";
+import { Link, Navigate, useNavigate } from "react-router-dom";
 
 const StoreItem = ({ id, name, price, imgUrl, oldPrice }) => {
+  const navigate = useNavigate()
   const {
     getItemQuantity,
     increaseCartQuantity,
     decreaseCartQuantity,
     removeFromCart,
-  } = useShoppingCart();
-
-  const quantity = getItemQuantity(id);
-
+  } = useContext(ShoppingCartContext)
+  const quantity = getItemQuantity(id)
   return (
     <Card className="h-100 text-center border-0">
       <Card.Img
@@ -25,7 +29,9 @@ const StoreItem = ({ id, name, price, imgUrl, oldPrice }) => {
           objectFit: "cover",
           backgroundColor: "#f9f9f9",
           padding: "10px",
+          cursor:'pointer'
         }}
+        onClick={()=>navigate(`products/${id}`)}
       />
       <Card.Body className="d-flex flex-column text-center">
         <Card.Title className="fs-5 fw-bold mt-3">{name}</Card.Title>
@@ -94,4 +100,3 @@ const StoreItem = ({ id, name, price, imgUrl, oldPrice }) => {
 };
 
 export default StoreItem;
-

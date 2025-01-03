@@ -4,62 +4,43 @@
       "name": "بقجة حرارية مطرزة",
       "price": 50.99,
       "oldPrice": 70.99,
-      "imgUrl": "/css,html project/bag1.jpg"
+      "imgUrl": "/IMG/TATEZa5r.jpg"
     },
     {
       "id": 1,
       "name": "بقجة حرارية مطرزة ذهبي",
       "price": 75.50,
       "oldPrice": 95.50,
-      "imgUrl": "/css,html project/bag2.jpg"
+      "imgUrl": "/IMG/BAG.jpg"
     },
     {
       "id": 2,
       "name": "شنطة جلد تراثية ",
       "price": 60.00,
       "oldPrice": 80.00,
-      "imgUrl": "/css,html project/bag3.jpg"
+      "imgUrl": "/IMG/BAG.jpg"
     },
     {
       "id": 3,
       "name": "جزدان مطرز تراثي",
       "price": 70.99,
       "oldPrice": 90.99,
-      "imgUrl": "/css,html project/bag4.jpg"
+      "imgUrl": "/IMG/KOFEA.jpg"
     },
     {
       "id": 4,
       "name": "جزدان مطرز بنقشة بيضاء",
       "price": 55.25,
       "oldPrice": 75.25,
-      "imgUrl": "/css,html project/bag5.jpg"
+      "imgUrl": "/IMG/TATEZa5r.jpg"
     },
-    {
-      "id": 5,
-      "name": "شنطة يد تراثية",
-      "price": 80.00,
-      "oldPrice": 100.00,
-      "imgUrl": "/css,html project/bag6.jpg"
-    },
+
     {
       "id": 6,
       "name": "شنطة يد منقشة",
       "price": 90.99,
       "oldPrice": 110.99,
-      "imgUrl": "/css,html project/bag7.jpg"
-    },
-    {
-      "id": 7,
-      "name": "جزدان ابيض بنقشة سوداء",
-      "price": 85.75,
-      "oldPrice": 105.75,
-      "imgUrl": "/css,html project/bag8.jpg"
-    },
-    {
-      "id": 8,
-      "name": "شنطة ظهر بالكوفية",
-      "price": 65.50,
-      "oldPrice": 85.50,
-      "imgUrl": "/css,html project/bag9.jpg"
+      "imgUrl": "/IMG/BAG.jpg"
     }
+
   ]
